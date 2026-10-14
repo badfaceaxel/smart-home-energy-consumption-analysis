@@ -56,9 +56,8 @@ An end-to-end time-series analytics project examining high-frequency (1-minute i
 │   └── processed/            # Resampled datasets (hourly & daily CSVs)
 ├── notebooks/
 │   └── 01_EDA_and_Data_Cleaning.ipynb   # Python ETL and initial visualization notebook
-├── reports/
-│   └── powerbi_dashboard.png # High-resolution screenshot of the dashboard
 ├── dashboards/
 │   └── Smart_Home_Energy_Dashboard.pbix # Interactive Power BI report file
+|   └── powerbi_dashboard.png # High-resolution screenshot of the dashboard
 ├── .gitignore                # Ignores heavy raw text files
 └── README.md                 # Project documentation
